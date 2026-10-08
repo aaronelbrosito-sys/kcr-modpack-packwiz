@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/DynamicSoundFilters-1.4.0+1.19.4.jar"
+hash = "ae170eb94cd9e960fe3b85f1953131283d07f619dd184e2fe51d0eace8d10ff0"
+
+[[files]]
+file = "mods/Joban-Client-Mod-1.19.4-1.2.2.jar"
+hash = "dd1218160d22bdbcfdafdd8ec5291a9dc14b4d3d563fea4c2ea28faebee34cb4"
+
+[[files]]
+file = "mods/KCR-Fabric.3.2.2-1.19.4.jar"
+hash = "b95a827d55c446ee8f9ed05f94e90da9cd3b88b4ca5fdd166e197e3605ffb20b"
+
+[[files]]
+file = "mods/MTR-ANTE-1.2.0-DEV-19+1.19.4.jar"
+hash = "848970265b9687462eaef4fc854135783f7216b1cce53eb96f87e7c9b74c6d0f"
+
+[[files]]
+file = "mods/dynamic-fps-3.11.4+minecraft-1.19.4-fabric.jar"
+hash = "2f1b4395e6e668e3e50faf2ff57a339a4eb52b6beb1ba61d32ec443e9d83b8d1"
+
+[[files]]
+file = "mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar"
+hash = "055b07436bc0c4f175345657e09e5375a529520aa1f9d06af557b413d7815fc6"
+
+[[files]]
+file = "mods/entityculling-fabric-1.11.2-mc1.19.4.jar"
+hash = "6ce18cda25b48931ff2dafa4fbe934b4f840a5f34be636cc776df8ee36b6210a"
+
+[[files]]
+file = "mods/fabric-api-0.87.2+1.19.4.jar"
+hash = "a92650d48a9f672dc74e8b1eaefedb28dc83a13a80431215900181aa3a8675d8"
+
+[[files]]
+file = "mods/ferritecore-5.2.0-fabric.jar"
+hash = "5e77ce8d0bb9d62b06a9b3f5c0c4872493ca32b9fc3ba38a9c8a6c4d75af70fa"
+
+[[files]]
+file = "mods/lithium-fabric-mc1.19.4-0.11.1.jar"
+hash = "69f8c82d97e424bd1fba09103d723d24f1e49a1fa6ae04b6830b81a78fb40c0c"
+
+[[files]]
+file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
+hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+
+[[files]]
+file = "mods/mishanguc-1.4.3.1-1.19.4.jar"
+hash = "2a958daa14b7944db5216c7ccc0eb8875f93b1defc5ec9c3f44b0d79fa378b87"
+
+[[files]]
+file = "mods/modmenu-6.3.1.jar"
+hash = "ba1b660d6d388489e0879eb0caad32a923066cd086571a816cb7cf9d1731fab1"
+
+[[files]]
+file = "mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar"
+hash = "d1bc81e45a5965019c8613b81f82c62020ce7ff280a490451b30ec76af5dda1a"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.14.jar"
+hash = "e9bbb9b78a8f2db0461955d61ed288c42a79a665022124df63f4f96676584cf6"
+
+[[files]]
+file = "resourcepacks/KowloonCantonRailwayPack.zip"
+hash = "97a78ae3df05af573af813c9c0fc07b6c6717472e208d014c9fc0e662bfb370a"
+
+[[files]]
+file = "resourcepacks/pack_kcr.fc.zip"
+hash = "36c764cb37d46d6317cddd3c3c8e28da5762d1a6ec7065af90c45af24b6ac1de"
+
+[[files]]
+file = "resourcepacks/pack_kcr.server.zip"
+hash = "81817bd33cf692bf415b33146b9b128b2a9c0952e064ce9a85bdc4088c0c5e7d"
+
+[[files]]
+file = "resourcepacks/pack_kcr.zip"
+hash = "35d61e876e9613886c511e8a22e6a7d74c232f01c40f2cda665043bdeb19e827"
+
+[[files]]
+file = "resourcepacks/pack_kcrurban.zip"
+hash = "45e1ccfb297095d97dd1012b17df793e22c53504e4d3dd4d225074c1ebd91b6b"

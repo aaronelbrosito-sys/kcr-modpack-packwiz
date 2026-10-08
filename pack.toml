@@ -1,0 +1,16 @@
+name = "KCR Modpack"
+author = "KCR_User"
+version = "v1.5.8"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ad4cb9754068fa2107224fa40bd4cbc0eab77f4f1824318965d8e90501d4f95"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.19.4"
+
+[update]
+source = "https://raw.githubusercontent.com/aaronelbrosito-sys/kcr-modpack-packwiz/refs/heads/11904/pack.toml"
